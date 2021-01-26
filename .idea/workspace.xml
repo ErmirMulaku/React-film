@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2c61675-5c50-4d4e-a3ad-4481ddf2a63a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/api/Api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/App/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/App/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/films/FilmCard/FilmCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/films/FilmCard/FilmCardPlaceholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/films/FilmDetails/FilmDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/films/FilmDetails/FilmDetailsPlaceholder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/films/FilmFeatured/FilmFeatured.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/films/FilmsList/FilmsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/films/FilmsPage/FilmsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/forms/FilmForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/forms/LoginForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/forms/RegisterForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/page-not-found/PageNotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/FormMessage/FormMessage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/Message/Message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/ShowAuthenticatedUser/ShowAuthenticatedUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/shared/TopNavigation/TopNavigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/users/Login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/users/Register/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/context/AppContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/context/FilmsContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+  </component>
+  <component name="ProjectId" id="1mhnfBVg6xjaHuQoPtldZkxqzTA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="node" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/client/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/components/page-not-found" />
+      <recent name="$PROJECT_DIR$/client/src/components/films" />
+      <recent name="$PROJECT_DIR$/client/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2c61675-5c50-4d4e-a3ad-4481ddf2a63a" name="Default Changelist" comment="" />
+      <created>1609954792820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609954792820</updated>
+      <workItem from="1609954795547" duration="8126000" />
+      <workItem from="1609966596746" duration="9000" />
+      <workItem from="1609971242306" duration="39000" />
+      <workItem from="1610007901122" duration="45000" />
+      <workItem from="1610125487646" duration="7345000" />
+      <workItem from="1610151946830" duration="3000" />
+      <workItem from="1610187605133" duration="405000" />
+      <workItem from="1610392642660" duration="3528000" />
+      <workItem from="1610556262069" duration="6103000" />
+      <workItem from="1610730385937" duration="8204000" />
+      <workItem from="1610990278255" duration="7660000" />
+      <workItem from="1611162765470" duration="8175000" />
+      <workItem from="1611413349226" duration="322000" />
+      <workItem from="1611413778093" duration="10501000" />
+      <workItem from="1611518484761" duration="10336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
