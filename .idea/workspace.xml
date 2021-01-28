@@ -29,6 +29,12 @@
       <change afterPath="$PROJECT_DIR$/client/src/context/AppContext.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/context/FilmsContext.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/utils/DisabledRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/utils/setTokenAuthorization.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/utils/useAppContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
@@ -109,6 +115,7 @@
       <workItem from="1611413349226" duration="322000" />
       <workItem from="1611413778093" duration="10501000" />
       <workItem from="1611518484761" duration="10336000" />
+      <workItem from="1611756621335" duration="10753000" />
     </task>
     <servers />
   </component>
